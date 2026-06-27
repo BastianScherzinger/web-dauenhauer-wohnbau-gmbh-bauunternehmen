@@ -1,0 +1,72 @@
+{
+  "site_name": "Dauenhauer Wohnbau GmbH Bauunternehmen",
+  "branche": "Bauunternehmen",
+  "stadt": "Rastatt",
+  "telefon": "",
+  "email": "",
+  "adresse": "Wilhelm-Leuschner-Str. 2 76437 Rastatt",
+  "akzent": "#9C640C",
+  "fotos": [
+    "/static/img/gal_ph1.svg",
+    "/static/img/gal_ph2.svg",
+    "/static/img/gal_ph3.svg"
+  ],
+  "hero_image": "/static/img/hero.png",
+  "headline": "Dauenhauer Wohnbau - Zu Hause in Rastatt bauen",
+  "subline": "Individuelle Baulösungen für Ihre Ziele",
+  "ueber_titel": "Familienbetrieb für individuelles Wohnen",
+  "ueber_text": "Seit Jahrzehnten gestalten wir mit Leidenschaft und Kompetenz Ihr neues Zuhause in Rastatt. Dauenhauer Wohnbau GmbH bietet Ihnen persönliche Beratung und erstklassige Bauqualität.",
+  "leistungen": [
+    {
+      "titel": "Individuelle Planung",
+      "text": "Wir entwickeln maßgeschneiderte Baupläne, die Ihren Wünschen gerecht werden."
+    },
+    {
+      "titel": "Qualitativ hochwertig",
+      "text": "Unsere Bauarbeiten sind auf höchstem Niveau und nach den neuesten Standards."
+    },
+    {
+      "titel": "Persönliche Beratung",
+      "text": "Sie erhalten stets individuelle Unterstützung von unserem erfahrenen Team."
+    },
+    {
+      "titel": "Lokale Expertise",
+      "text": "Wir kennen Rastatt und seine spezifischen Anforderungen im Bauwesen."
+    }
+  ],
+  "cta_text": "Ihre Idee in die Tat umsetzen",
+  "seo_title": "Dauenhauer Wohnbau GmbH - Zuverlässiger Bauunternehmer Rastatt",
+  "seo_desc": "Dauenhauer Wohnbau GmbH bietet individuelle Baulösungen für Ihre Ziele in Rastatt. Erfahren Sie mehr über unsere Dienstleistungen.",
+  "jahr": 2026,
+  "hero_source": "template",
+  "hero_template": "bau.jpg",
+  "rechner": {
+    "titel": "Kostenrechner",
+    "untertitel": "Unverbindliche Sofort-Schätzung",
+    "posten": [
+      {
+        "name": "Kleinere Arbeiten",
+        "ab": 300,
+        "bis": 1500
+      },
+      {
+        "name": "Umbau / Renovierung",
+        "ab": 3000,
+        "bis": 20000
+      },
+      {
+        "name": "Rohbau (Richtwert)",
+        "ab": 20000,
+        "bis": 120000
+      }
+    ],
+    "hinweis": "Grobe Orientierung — Ihr genaues, kostenloses Angebot erstellen wir nach kurzer Rücksprache."
+  },
+  "site_version": "1.0",
+  "font_display": "Fraunces",
+  "font_body": "Inter",
+  "taste_applied": true,
+  "about_image": "/static/img/about_ph.svg",
+  "placeholder_images": true,
+  "hero_refresh_version": 7
+}
