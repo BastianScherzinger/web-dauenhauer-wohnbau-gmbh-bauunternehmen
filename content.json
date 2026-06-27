@@ -98,5 +98,9 @@
     "Schnelle Umsetzung",
     "Qualität im Vordergrund"
   ],
-  "content_enriched": true
+  "content_enriched": true,
+  "makeover_stages": [
+    "lokal"
+  ],
+  "makeover_version": 7
 }
